@@ -1,0 +1,103 @@
+[
+  {
+    "doctorImage": "https://www.mayoclinic.org/-/media/kcms/employees/2018/06/16/21/28/michael-ackerman-10494715.jpg",
+    "doctorName": "Michael J. Ackerman, M.D., Ph.D.",
+    "doctorLink": "https://www.mayoclinic.org/biographies/ackerman-michael-j-m-d-ph-d/bio-20053036",
+    "doctorSpeciality": [
+      "Pediatric Cardiologist"
+    ],
+    "doctorLocation": "Rochester, MN",
+    "doctorAOF": "Genetic testing, Brugada syndrome, Catecholaminergic polymorphic ventricular tachycardia , Drowning, Long QT syndrome, ..."
+  },
+  {
+    "doctorImage": "https://www.mayoclinic.org/-/media/kcms/employees/2018/06/16/22/47/andres-acosta-15585085.jpg",
+    "doctorName": "Andres J. Acosta, M.D., Ph.D.",
+    "doctorLink": "https://www.mayoclinic.org/biographies/acosta-andres-j-m-d-ph-d/bio-20166892",
+    "doctorSpeciality": [
+      "Internist",
+      "Bariatrician",
+      "Gastroenterologist"
+    ],
+    "doctorLocation": "Rochester, MN",
+    "doctorAOF": "Upper endoscopy, Bariatric surgery, Nutrition (Healthy eating), Obesity"
+  },
+  {
+    "doctorImage": "https://www.mayoclinic.org/-/media/kcms/employees/2018/06/16/21/44/darcy-adamczyk-11759445.jpg",
+    "doctorName": "Darcy L. Adamczyk, M.D.",
+    "doctorLink": "https://www.mayoclinic.org/biographies/adamczyk-darcy-l-m-d/bio-20053071",
+    "doctorSpeciality": [
+      "Radiologist"
+    ],
+    "doctorLocation": "Rochester, MN",
+    "doctorAOF": null
+  },
+  {
+    "doctorImage": "https://www.mayoclinic.org/-/media/kcms/employees/2019/11/05/18/40/daniel-adamo-15920615.jpg",
+    "doctorName": "Daniel A. Adamo, M.D.",
+    "doctorLink": "https://www.mayoclinic.org/biographies/adamo-daniel-a-m-d/bio-20473573",
+    "doctorSpeciality": [],
+    "doctorLocation": "Rochester, MN",
+    "doctorAOF": "Kidney biopsy"
+  },
+  {
+    "doctorImage": "https://www.mayoclinic.org/-/media/kcms/employees/2018/06/16/22/15/roberta-adams-13996011.jpg",
+    "doctorName": "Roberta H. Adams, M.D.",
+    "doctorLink": "https://www.mayoclinic.org/biographies/adams-roberta-h-m-d/bio-20053038",
+    "doctorSpeciality": [
+      "Pediatric Hematologist / Oncologist",
+      "Pediatrician"
+    ],
+    "doctorLocation": "Phoenix, AZ",
+    "doctorAOF": "Bone marrow transplant"
+  },
+  {
+    "doctorImage": "https://www.mayoclinic.org/-/media/kcms/employees/2018/06/16/21/58/jill-adamski-12807931.jpg",
+    "doctorName": "Jill Adamski, M.D., Ph.D.",
+    "doctorLink": "https://www.mayoclinic.org/biographies/adamski-jill-m-d-ph-d/bio-20087333",
+    "doctorSpeciality": [
+      "Pathologist"
+    ],
+    "doctorLocation": "Phoenix, AZ",
+    "doctorAOF": "Apheresis"
+  },
+  {
+    "doctorImage": "https://www.mayoclinic.org/-/media/kcms/employees/2020/10/09/14/02/demilade-adedinsewo-20539584.jpg",
+    "doctorName": "Demilade A. Adedinsewo, M.B., Ch.B., M.P.H.",
+    "doctorLink": "https://www.mayoclinic.org/biographies/adedinsewo-demilade-a-m-b-ch-b-m-p-h/bio-20502753",
+    "doctorSpeciality": [],
+    "doctorLocation": "Jacksonville, FL",
+    "doctorAOF": null
+  },
+  {
+    "doctorImage": "https://www.mayoclinic.org/-/media/kcms/employees/2018/06/16/21/42/charles-adler-11540249.jpg",
+    "doctorName": "Charles H. Adler, M.D., Ph.D.",
+    "doctorLink": "https://www.mayoclinic.org/biographies/adler-charles-h-m-d-ph-d/bio-20054323",
+    "doctorSpeciality": [
+      "Sports Medicine Specialist",
+      "Neurologist"
+    ],
+    "doctorLocation": "Phoenix, AZ",
+    "doctorAOF": "Botox injection, Restless legs syndrome, Dystonia, Movement disorder, Essential tremor, Parkinson's disease"
+  },
+  {
+    "doctorImage": "https://www.mayoclinic.org/-/media/kcms/employees/2023/05/08/15/15/paula-aduen-15126781.jpg",
+    "doctorName": "Paula A. Aduen, Ph.D.",
+    "doctorLink": "https://www.mayoclinic.org/biographies/aduen-paula-a-ph-d/bio-20547614",
+    "doctorSpeciality": [
+      "Neuropsychologist"
+    ],
+    "doctorLocation": "Jacksonville, FL",
+    "doctorAOF": "Neuropsychological assessment, Memory loss, Mild cognitive impairment, Dementia, Cognitive disorder"
+  },
+  {
+    "doctorImage": "https://www.mayoclinic.org/-/media/kcms/employees/2018/06/16/22/57/jayanth-adusumalli-16022874.jpg",
+    "doctorName": "Jayanth (Jay) Adusumalli, M.B.B.S., M.P.H.",
+    "doctorLink": "https://www.mayoclinic.org/biographies/adusumalli-jayanth-jay-m-b-b-s-m-p-h/bio-20231028",
+    "doctorSpeciality": [
+      "Internist",
+      "Public Health and General Preventive Medicine Specialist"
+    ],
+    "doctorLocation": "Rochester, MN",
+    "doctorAOF": "Hyperbaric oxygen therapy, Integrative medicine"
+  }
+]

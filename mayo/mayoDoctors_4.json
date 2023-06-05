@@ -1,0 +1,103 @@
+[
+  {
+    "doctorImage": "https://www.mayoclinic.org/-/media/kcms/employees/2019/06/25/18/03/pooja-advani-15584518.jpg",
+    "doctorName": "Pooja Advani, M.B.B.S., M.D.",
+    "doctorLink": "https://www.mayoclinic.org/biographies/advani-pooja-m-b-b-s-m-d/bio-20464247",
+    "doctorSpeciality": [
+      "Hematologist",
+      "Oncologist"
+    ],
+    "doctorLocation": "Jacksonville, FL",
+    "doctorAOF": "Breast cancer"
+  },
+  {
+    "doctorImage": "https://www.mayoclinic.org/-/media/kcms/employees/2018/06/16/22/53/devon-aganga-15806707.jpg",
+    "doctorName": "Devon O. Aganga, M.D.",
+    "doctorLink": "https://www.mayoclinic.org/biographies/aganga-devon-o-m-d/bio-20055730",
+    "doctorSpeciality": [
+      "Pediatric Critical Care Specialist",
+      "Anesthesiologist",
+      "Pediatrician"
+    ],
+    "doctorLocation": "Rochester, MN",
+    "doctorAOF": "Neonatal and pediatric heart surgery, Surgical procedure, Transplant, General anesthesia administration"
+  },
+  {
+    "doctorImage": "https://www.mayoclinic.org/-/media/kcms/employees/2022/03/11/11/42/amit-agarwal-30069342.jpg",
+    "doctorName": "Amit K. Agarwal, M.B.B.S.",
+    "doctorLink": "https://www.mayoclinic.org/biographies/agarwal-amit-k-m-b-b-s/bio-20529558",
+    "doctorSpeciality": [],
+    "doctorLocation": "Jacksonville, FL",
+    "doctorAOF": null
+  },
+  {
+    "doctorImage": "https://www.mayoclinic.org/-/media/kcms/employees/2022/03/11/11/51/ali-agely-16239237.jpg",
+    "doctorName": "Ali Agely, M.D.",
+    "doctorLink": "https://www.mayoclinic.org/biographies/agely-ali-m-d/bio-20529563",
+    "doctorSpeciality": [
+      "Radiologist"
+    ],
+    "doctorLocation": "Jacksonville, FL",
+    "doctorAOF": null
+  },
+  {
+    "doctorImage": "https://www.mayoclinic.org/-/media/kcms/employees/2018/06/16/21/18/david-agerter-10206396.jpg",
+    "doctorName": "David Agerter, M.D.",
+    "doctorLink": "https://www.mayoclinic.org/biographies/agerter-david-m-d/bio-20054761",
+    "doctorSpeciality": [
+      "Family Physician"
+    ],
+    "doctorLocation": "Rochester, MN",
+    "doctorAOF": "Attention-deficit/hyperactivity disorder in children, Sports injury"
+  },
+  {
+    "doctorImage": "https://www.mayoclinic.org/-/media/kcms/employees/2018/06/16/22/27/neera-agrwal-14673363.jpg",
+    "doctorName": "Neera Agrwal, M.D., Ph.D.",
+    "doctorLink": "https://www.mayoclinic.org/biographies/agrwal-neera-m-d-ph-d/bio-20054778",
+    "doctorSpeciality": [
+      "Internist"
+    ],
+    "doctorLocation": "Phoenix, AZ",
+    "doctorAOF": null
+  },
+  {
+    "doctorImage": "https://www.mayoclinic.org/-/media/kcms/employees/2018/06/16/21/20/john-ahlskog-10263080.jpg",
+    "doctorName": "J. Eric Ahlskog, M.D., Ph.D.",
+    "doctorLink": "https://www.mayoclinic.org/biographies/ahlskog-j-eric-m-d-ph-d/bio-20053041",
+    "doctorSpeciality": [
+      "Neurologist"
+    ],
+    "doctorLocation": "Rochester, MN",
+    "doctorAOF": "Movement disorder"
+  },
+  {
+    "doctorImage": "https://www.mayoclinic.org/-/media/kcms/employees/2018/06/16/23/20/sumera-ahmad-20783060.jpg",
+    "doctorName": "Sumera R. Ahmad, M.B.B.S.",
+    "doctorLink": "https://www.mayoclinic.org/biographies/ahmad-sumera-r-m-b-b-s/bio-20382422",
+    "doctorSpeciality": [
+      "Critical Care Specialist",
+      "Pulmonologist"
+    ],
+    "doctorLocation": "Rochester, MN",
+    "doctorAOF": null
+  },
+  {
+    "doctorImage": "https://www.mayoclinic.org/-/media/kcms/employees/2018/07/20/18/55/safia-ahmed-15286118.jpg",
+    "doctorName": "Safia K. Ahmed, M.D.",
+    "doctorLink": "https://www.mayoclinic.org/biographies/ahmed-safia-k-m-d/bio-20433784",
+    "doctorSpeciality": [],
+    "doctorLocation": "Rochester, MN",
+    "doctorAOF": "Radiation therapy, Stereotactic radiosurgery, Proton therapy, Intraoperative radiation therapy, Brachytherapy, Intensit..."
+  },
+  {
+    "doctorImage": "https://www.mayoclinic.org/-/media/kcms/employees/2018/06/16/23/10/daniel-ahn-19875983.jpg",
+    "doctorName": "Daniel H. Ahn, D.O.",
+    "doctorLink": "https://www.mayoclinic.org/biographies/ahn-daniel-h-d-o/bio-20235148",
+    "doctorSpeciality": [
+      "Internist",
+      "Oncologist"
+    ],
+    "doctorLocation": "Phoenix, AZ",
+    "doctorAOF": "Stomach cancer, Pancreatic cancer, Colon cancer, Esophageal cancer, Neuroendocrine tumor, Cholangiocarcinoma"
+  }
+]

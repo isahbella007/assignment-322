@@ -1,0 +1,102 @@
+[
+  {
+    "doctorImage": "https://www.mayoclinic.org/-/media/kcms/employees/2018/07/10/16/34/edward-ahn-20946791.jpg",
+    "doctorName": "Edward S. Ahn, M.D.",
+    "doctorLink": "https://www.mayoclinic.org/biographies/ahn-edward-s-m-d/bio-20432865",
+    "doctorSpeciality": [
+      "Pediatric Neurosurgeon"
+    ],
+    "doctorLocation": "Rochester, MN",
+    "doctorAOF": "Fetal surgery, Pediatric cervical spine surgery, Endoscopic procedure, Craniotomy, Spina bifida, Arteriovenous malforma..."
+  },
+  {
+    "doctorImage": "https://www.mayoclinic.org/-/media/kcms/employees/2018/06/16/22/57/sikander-ailawadhi-16056264.jpg",
+    "doctorName": "Sikander Ailawadhi, M.D.",
+    "doctorLink": "https://www.mayoclinic.org/biographies/ailawadhi-sikander-m-d/bio-20087330",
+    "doctorSpeciality": [
+      "Oncologist"
+    ],
+    "doctorLocation": "Jacksonville, FL",
+    "doctorAOF": "Plasma cell disorders, Macroglobulinemia, Chronic myelogenous leukemia, Multiple myeloma, Leukemia, Waldenstrom macrogl..."
+  },
+  {
+    "doctorImage": "https://www.mayoclinic.org/-/media/kcms/employees/2018/01/21/00/54/alessandra-ainsworth-16082362.jpg",
+    "doctorName": "Alessandra (Ali) (Ali) J. Ainsworth, M.D.",
+    "doctorLink": "https://www.mayoclinic.org/biographies/ainsworth-alessandra-ali-ali-j-m-d/bio-20515930",
+    "doctorSpeciality": [
+      "Reproductive Endocrinologist"
+    ],
+    "doctorLocation": "Rochester, MN",
+    "doctorAOF": "Hysteroscopy, Ovulation induction, Fertility preservation, Egg freezing, Gestational surrogacy, Egg retrieval, Genetic ..."
+  },
+  {
+    "doctorImage": "https://www.mayoclinic.org/-/media/kcms/employees/2018/06/16/22/44/nila-akhtar-15462056.jpg",
+    "doctorName": "Nila J. Akhtar, M.D.",
+    "doctorLink": "https://www.mayoclinic.org/biographies/akhtar-nila-j-m-d/bio-20147411",
+    "doctorSpeciality": [
+      "Radiologist"
+    ],
+    "doctorLocation": "Rochester, MN",
+    "doctorAOF": null
+  },
+  {
+    "doctorImage": "https://www.mayoclinic.org/-/media/kcms/employees/2018/06/16/21/08/allen-aksamit-10014802.jpg",
+    "doctorName": "Allen J. Aksamit, Jr., M.D.",
+    "doctorLink": "https://www.mayoclinic.org/biographies/aksamit-allen-j-jr-m-d/bio-20053042",
+    "doctorSpeciality": [
+      "Neurologist"
+    ],
+    "doctorLocation": "Rochester, MN",
+    "doctorAOF": "Neurosarcoidosis, Progressive multifocal leukoencephalopathy, Prion disorders, Infectious disease"
+  },
+  {
+    "doctorImage": "https://www.mayoclinic.org/-/media/kcms/employees/2018/06/16/22/00/timothy-aksamit-12992542.jpg",
+    "doctorName": "Timothy R. Aksamit, M.D.",
+    "doctorLink": "https://www.mayoclinic.org/biographies/aksamit-timothy-r-m-d/bio-20053043",
+    "doctorSpeciality": [
+      "Critical Care Specialist",
+      "Internist",
+      "Pulmonologist"
+    ],
+    "doctorLocation": "Rochester, MN",
+    "doctorAOF": null
+  },
+  {
+    "doctorImage": "https://www.mayoclinic.org/-/media/kcms/employees/2018/06/16/21/32/ibrahim-aksoy-10874615.jpg",
+    "doctorName": "Ibrahim A. Aksoy, M.D., Ph.D.",
+    "doctorLink": "https://www.mayoclinic.org/biographies/aksoy-ibrahim-a-m-d-ph-d/bio-20054486",
+    "doctorSpeciality": [
+      "Physiatrist"
+    ],
+    "doctorLocation": "Phoenix, AZ",
+    "doctorAOF": "Gait unsteadiness, Hip tendinitis, Shoulder impingement syndrome, Rotator cuff tear, Spinal stenosis, Hip arthritis, Ne..."
+  },
+  {
+    "doctorImage": "https://www.mayoclinic.org/-/media/kcms/employees/2021/05/14/16/58/jana-al-hashash-18650929.jpg",
+    "doctorName": "Jana G. Al Hashash, M.D., M.S.",
+    "doctorLink": "https://www.mayoclinic.org/biographies/al-hashash-jana-g-m-d-m-s/bio-20513526",
+    "doctorSpeciality": [
+      "Gastroenterologist"
+    ],
+    "doctorLocation": "Jacksonville, FL",
+    "doctorAOF": "Chromoendoscopy, Colonoscopy, Upper endoscopy, Crohn's disease, Ulcerative colitis, Gastrointestinal bleeding, Pouchitis"
+  },
+  {
+    "doctorImage": "https://www.mayoclinic.org/-/media/kcms/employees/2015/01/26/13/57/alaa-al-nofal-15532381.jpg",
+    "doctorName": "Alaa Al Nofal, M.D., M.B.A.",
+    "doctorLink": "https://www.mayoclinic.org/biographies/al-nofal-alaa-m-d-m-b-a/bio-20517047",
+    "doctorSpeciality": [],
+    "doctorLocation": "Rochester, MN",
+    "doctorAOF": "Puberty disorder, Short stature disorder, Hypothyroidism, Hyperthyroidism, Type 1 diabetes, Congenital adrenal hyperpla..."
+  },
+  {
+    "doctorImage": "https://www.mayoclinic.org/-/media/kcms/employees/2022/01/26/20/27/mina-albadri-16133005.jpg",
+    "doctorName": "Mina M. Al-Badri, M.B., Ch.B.",
+    "doctorLink": "https://www.mayoclinic.org/biographies/al-badri-mina-m-m-b-ch-b/bio-20527033",
+    "doctorSpeciality": [
+      "Internist"
+    ],
+    "doctorLocation": "Phoenix, AZ",
+    "doctorAOF": null
+  }
+]
